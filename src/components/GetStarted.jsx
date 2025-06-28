@@ -8,7 +8,7 @@ const GetStarted = () => (
     whileInView={{ opacity: 1, scale: 1 }}
     whileHover={{ scale: 1.05 }}
     transition={{ duration: 0.6, type: "spring", stiffness: 250 }}
-    className={`${styles.flexCenter} w-[140px] h-[140px] rounded-full bg-blue-gradient p-[2px] cursor-pointer`}
+    className={`${styles.flexCenter} w-[140px] h-[140px] rounded-full bg-blue-gradient p-[4px] cursor-pointer`}
   >
     <div className={`${styles.flexCenter} flex-col bg-primary w-[100%] h-[100%] rounded-full`}>
       <div className={`${styles.flexStart} flex-row`}>
