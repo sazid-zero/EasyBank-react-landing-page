@@ -18,13 +18,6 @@ A modern, responsive landing page for EasyBank, built with **React JS**, **Tailw
 
 ![Product Section Screenshot](./screenshots/Screenshot-3.png)
 
-## Tech Stack
-
-- ⚛️ React JS
-- 🎨 Tailwind CSS
-- 🎞️ Framer Motion
-- 🔗 React Icons / Custom Assets
-
 ## Features
 
 - Responsive, mobile-friendly design
@@ -34,3 +27,27 @@ A modern, responsive landing page for EasyBank, built with **React JS**, **Tailw
 - Clean, component-based structure
 - Easy to customize and extend
 
+### Frontend Architecture
+- **Framework**: React 18 with TypeScript
+- **Styling**: TailwindCSS with custom CSS variables for theming
+- **UI Components**: Radix UI primitives with shadcn/ui component library
+- **Animations**: Framer Motion for smooth transitions and scroll-based animations
+- **Routing**: Wouter for lightweight client-side routing
+- **State Management**: React Query (@tanstack/react-query) for server state management
+- **Build Tool**: Vite for fast development and optimized builds
+
+### Frontend Dependencies
+- **React Ecosystem**: React, React DOM, React Query
+- **UI/UX**: Radix UI primitives, Framer Motion, Lucide React icons
+- **Styling**: TailwindCSS, class-variance-authority, clsx
+- **Forms**: React Hook Form with resolvers
+- **Utilities**: date-fns, embla-carousel-react
+
+## Changelog
+
+Changelog:
+- June 26, 2025. Initial setup
+
+## User Preferences
+
+Preferred communication style: Simple, everyday language.
