@@ -4,7 +4,8 @@ A modern, responsive landing page for EasyBank, built with **React JS**, **Tailw
 
 ## Live Demo
 
-[Check out the live site here](#) https://easy-bank-react-landing-page.vercel.app/
+[Check out the live site here](#https://easy-bank-react-landing-page.vercel.app/
+)
 
 ## Screenshots
 
