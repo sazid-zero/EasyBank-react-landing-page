@@ -67,6 +67,7 @@ const Hero = () => {
         initial={{ opacity: 0, scale: 0.8 }}
         whileInView={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.9, delay: 0.5 }}
+        whileHover={{ scale: 1.15 }}
         className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}
       >
         <img src={robot} alt="billing" className="w-[100%] h-[100%] relative z-[5]" />
