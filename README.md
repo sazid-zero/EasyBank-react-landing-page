@@ -9,7 +9,6 @@ A modern, responsive landing page for EasyBank, built with **React JS**, **Tailw
 ## Screenshots
 
 ![Hero Section Screenshot](./screenshots/hero.png)
-*(Add screenshots if you have them — optional but nice)*
 
 ## Tech Stack
 
